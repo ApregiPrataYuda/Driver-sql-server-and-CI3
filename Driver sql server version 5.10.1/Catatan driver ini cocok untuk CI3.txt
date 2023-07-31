@@ -1,0 +1,5 @@
+driver ini cocok untuk CI3 versi latestes 3.1.13
+cara penggunaan 
+-Laragon 
+open->bin->php->your version php->ext->Your paste in here
+-check php info 
